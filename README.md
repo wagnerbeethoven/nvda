@@ -3067,4 +3067,4 @@
     </tbody>
 </table>
 
-[Fonte](ftp://ftp.handytech.de/public/StartStick/files/nvda/documentation/pt_BR/keyCommands.html)
+Fonte: ftp://ftp.handytech.de/public/StartStick/files/nvda/documentation/pt_BR/keyCommands.html
