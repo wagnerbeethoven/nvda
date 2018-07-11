@@ -8,7 +8,7 @@
     Para alternar entre os modos de toque, execute um toque com 3 dedos.
 </p>
 <h3>Comandos Básicos do NVDA</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -83,7 +83,7 @@
 
 <a name="ReportingSystemInformation"></a>
 <h3>Anunciando Informações do Sistema</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -111,7 +111,7 @@
 
 <h2>Navegando com o NVDA</h2>
 <h3>Navegando com o Foco do Sistema</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -149,7 +149,7 @@
 </table>
 
 <h3>Navegando com o Cursor do Sistema</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -194,7 +194,7 @@
 <p>
     Quando estiver numa tabela, as seguintes teclas de atalho também estarão disponíveis:
 </p>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -225,7 +225,7 @@
 </table>
 
 <h3>Navegação de Objetos</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -307,7 +307,7 @@
 </table>
 
 <h3>Revendo [Explorando] Texto</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -447,7 +447,7 @@
 </table>
 
 <h3>Modos de Exploração</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -474,7 +474,7 @@
 </table>
 
 <h3>Navegando com o Mouse</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -527,7 +527,7 @@
 </table>
 
 <h2>Modo de Navegação</h2>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -632,7 +632,7 @@
 <p>
     Para mover-se ao início ou final de elementos que contém outros, tais como listas e tabelas:
 </p>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <td>Nome</td>
@@ -656,7 +656,7 @@
     Para alternar a ativação das teclas de navegação com caracteres avulsos no documento atual, pressione NVDA+shift+espaço.
 </p>
 <h3>A Lista de Elementos</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -672,7 +672,7 @@
 </table>
 
 <h3>Objetos Embutidos</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -689,7 +689,7 @@
 
 <h2>Lendo Conteúdo Matemático</h2>
 <h3>Navegação Interativa</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -719,7 +719,7 @@
 <h2>Recursos do NVDA para Aplicações Específicas</h2>
 <h3>Microsoft Word</h3>
 <h4>Leitura Automática dos Cabeçalhos das Linhas e Colunas</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -760,7 +760,7 @@
 </p>
 <h3>Microsoft Excel</h3>
 <h4>Leitura Automática dos Cabeçalhos das Linhas e Colunas</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -797,7 +797,7 @@
     use os comandos de movimento padrões do Excel, tais como as setas, para mover-se por todas as células da planilha.
 </p>
 <h3>Microsoft PowerPoint</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -814,7 +814,7 @@
 </table>
 
 <h3>foobar2000</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -830,7 +830,7 @@
 </table>
 
 <h3>Miranda IM</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <td>Nome</td>
@@ -847,7 +847,7 @@
 </table>
 
 <h3>Poedit</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -871,7 +871,7 @@
 <p>
     Quando em uma conversa:
 </p>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -900,7 +900,7 @@
 <p>
     Quando na visualização da tabela de livros adicionados:
 </p>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -923,7 +923,7 @@
 <h2>Configurando o NVDA</h2>
 <h3>Opções do NVDA</h3>
 <h4>Configurações de Fala (NVDA+control+v)</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -943,7 +943,7 @@
 </table>
 
 <h4>Selecionar Sintetizador (NVDA+control+s)</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -962,7 +962,7 @@
 </table>
 
 <h4>O Anel de Configurações de Voz</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1000,7 +1000,7 @@
 </table>
 
 <h4>Braille</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1019,7 +1019,7 @@
 </table>
 
 <h4>Teclado (NVDA+control+k)</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1051,7 +1051,7 @@
 </table>
 
 <h4>Mouse (NVDA+control+m)</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1070,7 +1070,7 @@
 </table>
 
 <h4>Cursor de Exploração</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1095,7 +1095,7 @@
 </table>
 
 <h4>Apresentação de Objetos (NVDA+control+o)</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1120,7 +1120,7 @@
 </table>
 
 <h4>Modo de Navegação (NVDA+control+b)</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1141,7 +1141,7 @@
 </table>
 
 <h3>Salvando e Restaurando Configurações</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1175,7 +1175,7 @@
 <p></p>
 <h2>Linhas Braille Suportadas</h2>
 <h3>Freedom Scientific Focus/PAC Mate Series</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1323,7 +1323,7 @@
 <p>
     Para modelos mais recentes da Focus que possuam teclas "rocker bar" (focus 40, focus 80 e focus blue):
 </p>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1343,7 +1343,7 @@
 <p>
     Apenas para a Focus 80:
 </p>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1361,7 +1361,7 @@
 </table>
 
 <h3>Optelec ALVA séries 6 / conversor de protocolo</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1507,7 +1507,7 @@
 </table>
 
 <h3>Linhas Handy Tech</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1593,7 +1593,7 @@
 </table>
 
 <h3>MDV Lilli</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1639,7 +1639,7 @@
 </table>
 
 <h3>Linhas Braille Baum/Humanware/APH/Orbit</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1671,7 +1671,7 @@
 <p>
     Para linhas que tenham joystick:
 </p>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1701,7 +1701,7 @@
 </table>
 
 <h3>hedo ProfiLine USB</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1739,7 +1739,7 @@
 </table>
 
 <h3>hedo MobilLine USB</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1778,7 +1778,7 @@
 
 <h3>HumanWare Brailliant BI/B Series / BrailleNote Touch</h3>
 <h4>Atribuições de teclas para todos os modelos</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1868,7 +1868,7 @@
 </table>
 
 <h4>Atribuições de teclas para Brailliant BI 32, BI 40 e B 80</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1890,7 +1890,7 @@
 </table>
 
 <h4>Atribuições de teclas para Brailliant BI 14</h4>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -1920,7 +1920,7 @@
 </table>
 
 <h3>HIMS Séries Braille Sense/Braille EDGE/Smart Beetle/Sync Braille</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -2176,7 +2176,7 @@
 </table>
 
 <h3>Linhas Braille Seika</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -2230,7 +2230,7 @@
 </table>
 
 <h3>Papenmeier BRAILLEX Novos Modelos</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -2299,7 +2299,7 @@
     </tbody>
 </table>
 
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <td>tecla esc</td>
@@ -2344,7 +2344,7 @@
 <p>
     Dispositivos que possuem EAB:
 </p>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -2420,7 +2420,7 @@
 <p>
     BRAILLEX Tiny:
 </p>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -2492,7 +2492,7 @@
 <p>
     BRAILLEX 2D Screen:
 </p>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -2554,7 +2554,7 @@
 </table>
 
 <h3>HumanWare BrailleNote</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -2660,7 +2660,7 @@
 </table>
 
 <h3>EcoBraille</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -2738,7 +2738,7 @@
 </table>
 
 <h3>SuperBraille</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -2756,7 +2756,7 @@
 </table>
 
 <h3>Linhas Eurobraille Esys/Esytime/Iris</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <th>Nome</th>
@@ -3038,7 +3038,7 @@
 </table>
 
 <h3>BRLTTY</h3>
-<table>
+<table width="100%">
     <tbody>
         <tr>
             <td>Nome</td>
@@ -3066,3 +3066,5 @@
         </tr>
     </tbody>
 </table>
+
+[Fonte](ftp://ftp.handytech.de/public/StartStick/files/nvda/documentation/pt_BR/keyCommands.html)
